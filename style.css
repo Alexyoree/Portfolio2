@@ -383,10 +383,7 @@ span {
 }
 
 .project {
-    margin-left: auto;
-    margin-right: auto;
     min-height: auto;
-    margin-bottom: 10px;
     padding-bottom: 10rem;
 }
 
@@ -410,8 +407,7 @@ span {
 }
 
 .project-box img {
-    translate: 400px;
-    width: 50%;
+    width: 100%;
     transition: .5s ease;
 }
 
@@ -443,12 +439,11 @@ span {
 
 .project-layer h4 {
     font-size: 3rem;
-    
 }
 
 .project-layer p {
     font-size: 1.6rem;
-    margin: .10rem 10rem 2rem;
+    margin: .3rem 0 1rem;
 }
 
 .project-layer a {
